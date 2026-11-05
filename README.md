@@ -111,15 +111,6 @@ Sistema web **em produção** num colégio. Os pais agendam, remarcam ou cancela
 
 ---
 
-## 📈 Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emanoelpassos&show_icons=true&count_private=true&theme=transparent&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoelpassos&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
-</p>
-
----
-
 <p align="center">
   💡 Aberto a projetos freelance e oportunidades. Vamos conversar!
 </p>
